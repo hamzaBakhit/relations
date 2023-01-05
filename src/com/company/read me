@@ -1,0 +1,16 @@
+حل السؤال التالي
+المطلوب: كتابة كود برمجي يقوم بعمل التالي:
+- الادخال Input: مجموعة A نحوي عدد محدود من العناصر + علاقة R على A من خلال مجموعة الأزواج المرتبة الممثلة للعلاقة.
+- الناتج Output:
+1) أظهار مصفوفة M التي تمثل العلاقة R.
+2) تحديد هل العلاقة تحقق الخواص الثلاث: الانعكاسية، التناظرية، المتعدية.
+3) ومن ثم استنتاج هل العلاقة تكافؤ أم.
+
+
+مترجم للانجليزية
+Write java code that does the following:
+- Input: A grammatical set of a finite number of elements + a relation R on A through the set of ordered pairs representing the relation.
+Output:
+1) Show the matrix M that represents the relation R.
+2) Determine whether the relation fulfills the three properties: reflexive, symmetric, and transitive.
+3) Then conclude whether the relationship is equivalence or not.

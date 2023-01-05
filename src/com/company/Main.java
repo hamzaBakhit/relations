@@ -4,14 +4,17 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // make object form Scanner class
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Enter lenght of ur matrix");
         // Read in the size of the set A
         int size = scanner.nextInt();
 
         // Read in the elements of the set A
         String[] elements = new String[size];
         for (int i = 0; i < size; i++) {
+            System.out.println("Enter a value to ur matrix");
             elements[i] = scanner.next();
         }
 
